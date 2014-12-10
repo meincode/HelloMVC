@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.View.OnClickListener;  
 import android.widget.Button;  
 
+//TEST commit
 public class MainActivity extends Activity implements Observer, OnClickListener{  
     private Model mModel;  
     private Button mButton1, mButton2;  
