@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloMVC</string>
+    <string name="title1">Title1</string>
+    <string name="title2">Title2</string>
+    <string name="button1">button1</string>
+    <string name="button2">button2</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
